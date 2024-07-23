@@ -1,0 +1,52 @@
+h1{
+    color: darkred;
+
+    /* */
+}
+
+h2{
+    margin: 0px;
+    text-align: center;
+}
+
+#trem{
+    width: 800px;
+    border: solid black 1px;
+    margin-bottom: 20px;
+    display: flex;
+    padding: 20px;
+}
+
+#trem img{
+    width: 300px;
+    height: 300px;
+}
+
+#mixto{
+    width: 800px;
+    border: solid black 1px;
+    margin-bottom: 20px;
+    display: flex;
+    padding: 20px;
+}
+
+#mixto img{
+    width: 210px;
+    height: 300px;
+}
+
+#juazeirense{
+    width: 800px;
+    border: solid black 1px;
+    display: flex;
+    padding: 20px;
+}
+
+#juazeirense img{
+    width: 220px;
+    height: 300px;
+}
+
+p{
+    text-align: left;
+}
